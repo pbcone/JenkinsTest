@@ -1,1 +1,6 @@
-console.log("helloWorld");
+
+function jenTest(){
+    console.log("helloWorld");
+}
+
+jenTest();
