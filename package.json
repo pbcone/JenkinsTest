@@ -1,0 +1,22 @@
+{
+  "name": "jenkinstest",
+  "version": "1.0.0",
+  "description": "to run mocah test ./node_modules/.bin/mocha -u tdd",
+  "main": "app",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbcone/JenkinsTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbcone/JenkinsTest/issues"
+  },
+  "homepage": "https://github.com/pbcone/JenkinsTest#readme",
+  "dependencies": {
+    "mocha": "^3.4.1"
+  }
+}
