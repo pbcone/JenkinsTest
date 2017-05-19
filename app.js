@@ -1,6 +1,6 @@
 
 function jenkTest(){
-    return("helloWorld");
+    return("helloWord");
 }
 
 function jenkSuccTest(x){
