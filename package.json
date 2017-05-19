@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/pbcone/JenkinsTest#readme",
   "dependencies": {
-    "mocha": "^3.4.1"
+    "mocha": "^3.4.1",
+    "mocha-junit-reporter": "^1.13.0"
   }
 }
